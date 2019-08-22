@@ -1,0 +1,8 @@
+CREATE TABLE PermanentCollection(
+	ID INT NOT NULL AUTO_INCREMENT,
+    ArtObjectID INT NOT NULL REFERENCES ArtObject(ID),
+    DateAcquired DATE NOT NULL,
+    CurrentStatus VARCHAR(30) NOT NULL,
+    Cost DECIMAL(19,4) NOT NULL,
+    PRIMARY KEY(ID)
+);
