@@ -1,0 +1,14 @@
+Script started on Tue Oct  4 09:33:00 2016
+[?1034hbash-3.2$ python Acryonum[K[Kym[K[K[K[K[Konum[K[Kym.py
+NATO
+LASER
+bash-3.2$ python PrimeNumber.py
+29: True
+47: True
+51: False
+127: True
+189: False
+bash-3.2$ exit
+exit
+
+Script done on Tue Oct  4 09:33:44 2016

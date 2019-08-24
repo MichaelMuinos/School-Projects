@@ -1,0 +1,23 @@
+Script started on Thu Oct 20 10:59:29 2016
+[?1034hbash-3.2$ exitpython3 Lab5-Part1.py
+------Target Stock-------
+2016-10-10, share price is $69.41, the highest of the week.
+2016-10-13, share price is $67.31, the lowest of the week.
+2016-10-12, trading volume is 4279600 shares, the highest of the week.
+$68.22, the average closing price of the week.
+
+------Microsoft Stock-------
+2016-10-10, share price is $58.39, the highest of the week.
+2016-10-13, share price is $56.32, the lowest of the week.
+2016-10-14, trading volume is 27402500 shares, the highest of the week.
+$57.34, the average closing price of the week.
+bash-3.2$ python3 Lab5-Part2.py
+--------Target Stock---------
+1987-10-20, trading volume is 80400000 shares, the highest in the past 20 years.
+
+---------Microsoft Stock------------
+1986-03-13, trading volume is 1031788800 shares, the highest in the past 20 years.
+bash-3.2$ exit
+exit
+
+Script done on Thu Oct 20 11:00:09 2016

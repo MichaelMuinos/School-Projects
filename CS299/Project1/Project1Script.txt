@@ -1,0 +1,134 @@
+Script started on Thu Sep 29 10:28:45 2016
+[?1034hbash-3.2$ exitpython RockPaperScissors.py
+Choose the number for your choice.
+1. Rock
+2. Paper
+3. Scissors
+1
+Computer choice: rock
+Player choice: rock
+Tie!
+
+
+Choose the number for your choice.
+1. Rock
+2. Paper
+3. Scissors
+2
+Computer choice: rock
+Player choice: paper
+Player won!
+
+
+Choose the number for your choice.
+1. Rock
+2. Paper
+3. Scissors
+3
+Computer choice: rock
+Player choice: scissors
+Computer won!
+
+
+Choose the number for your choice.
+1. Rock
+2. Paper
+3. Scissors
+1
+Computer choice: paper
+Player choice: rock
+Computer won!
+
+
+Choose the number for your choice.
+1. Rock
+2. Paper
+3. Scissors
+2
+Computer choice: scissors
+Player choice: paper
+Computer won!
+
+
+Choose the number for your choice.
+1. Rock
+2. Paper
+3. Scissors
+3
+Computer choice: scissors
+Player choice: scissors
+Tie!
+
+
+Choose the number for your choice.
+1. Rock
+2. Paper
+3. Scissors
+1
+Computer choice: paper
+Player choice: rock
+Computer won!
+
+
+bash-3.2$ python PerfectNumber.py
+6 is a perfect number, 6 = 1 + 2 + 3.
+
+28 is a perfect number, 28 = 1 + 2 + 4 + 7 + 14.
+
+325 is not a perfect number.
+
+496 is a perfect number, 496 = 1 + 2 + 4 + 8 + 16 + 31 + 62 + 124 + 248.
+
+bash-3.2$ python MonteCarloMethod.py
+Value of N: 100
+PI: 3.12
+Time to execute(seconds): 0.000344038009644
+
+Value of N: 100
+PI: 3.04
+Time to execute(seconds): 0.000378131866455
+
+Value of N: 100
+PI: 3.2
+Time to execute(seconds): 0.000316858291626
+
+Value of N: 1000
+PI: 3.112
+Time to execute(seconds): 0.003005027771
+
+Value of N: 1000
+PI: 3.076
+Time to execute(seconds): 0.00298690795898
+
+Value of N: 1000
+PI: 3.12
+Time to execute(seconds): 0.00285196304321
+
+Value of N: 10000
+PI: 3.1552
+Time to execute(seconds): 0.0257978439331
+
+Value of N: 10000
+PI: 3.1628
+Time to execute(seconds): 0.0243580341339
+
+Value of N: 10000
+PI: 3.1372
+Time to execute(seconds): 0.0280599594116
+
+Value of N: 100000
+PI: 3.14812
+Time to execute(seconds): 0.24286198616
+
+Value of N: 100000
+PI: 3.138
+Time to execute(seconds): 0.245190858841
+
+Value of N: 100000
+PI: 3.14148
+Time to execute(seconds): 0.241333007812
+
+bash-3.2$ exit
+exit
+
+Script done on Thu Sep 29 10:30:06 2016

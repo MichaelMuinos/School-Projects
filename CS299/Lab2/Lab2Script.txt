@@ -1,0 +1,65 @@
+Script started on Thu Sep 29 09:14:11 2016
+[?1034hbash-3.2$ exitpython Lab2.py
+Enter your weight(lbs): 115
+Enter your height(inches): 61
+Your BMI is 21!
+You are considered NORMAL! Awesome!
+
+bash-3.2$ python Lab2.py
+Enter your weight(lbs): 140
+Enter your height(inches): 63
+Your BMI is 24!
+You are considered NORMAL! Awesome!
+
+bash-3.2$ python Lab2.py
+Enter your weight(lbs): 145
+Enter your height(inches): 63
+Your BMI is 25!
+You are considered OVERWEIGHT! 
+
+bash-3.2$ python Lab2.py
+Enter your weight(lbs): 165
+Enter your height(inches): 65
+Your BMI is 27!
+You are considered OVERWEIGHT! 
+
+bash-3.2$ python Lab2.py
+Enter your weight(lbs): 180
+Enter your height(inches): 66
+Your BMI is 29!
+You are considered OVERWEIGHT! 
+
+bash-3.2$ python Lab2.py
+Enter your weight(lbs): 170
+Enter your height(inches): 63
+Your BMI is 30!
+You are considered OBESE! Oh no!
+
+bash-3.2$ python Lab2.py
+Enter your weight(lbs): 190
+Enter your height(inches): 62
+Your BMI is 34!
+You are considered OBESE! Oh no!
+
+bash-3.2$ python Lab2.py
+Enter your weight(lbs): 215
+Enter your height(inches): 62
+Your BMI is 39!
+You are considered OBESE! Oh no!
+
+bash-3.2$ python Lab2.py
+Enter your weight(lbs): 240
+Enter your height(inches): 61
+Your BMI is 45!
+You are considered EXTREMELY OBESE! Go exercise!
+
+bash-3.2$ python Lab2.py
+Enter your weight(lbs): 205
+Enter your height(inches): 60
+Your BMI is 40!
+You are considered EXTREMELY OBESE! Go exercise!
+
+bash-3.2$ exit
+exit
+
+Script done on Thu Sep 29 09:18:15 2016

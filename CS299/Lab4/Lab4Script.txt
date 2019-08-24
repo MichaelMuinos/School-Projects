@@ -1,0 +1,32 @@
+Script started on Tue Oct 18 09:36:57 2016
+[?1034hbash-3.2$ exitpython3 Lab4.py
+////////PART 1/////////
+
+a) ['Hello', 7, 7, 9, 'a', 'cat', False]
+b) ['Hello', 7, 7, 9, 'a', 'cat', False, 3.141592653589793, 7]
+c) ['Hello', 7, 7, 'dog', 9, 'a', 'cat', False, 3.141592653589793, 7]
+d) Index of 'cat': 6
+	['Hello', 7, 7, 'dog', 9, 'a', 'cat', False, 3.141592653589793, 7]
+e) Number of 7's: 3
+	['Hello', 7, 7, 'dog', 9, 'a', 'cat', False, 3.141592653589793, 7]
+f) ['Hello', 7, 'dog', 9, 'a', 'cat', False, 3.141592653589793, 7]
+g) ['Hello', 7, 9, 'a', 'cat', False, 3.141592653589793, 7]
+
+
+/////////Part 2/////////
+
+a) [3, 5, 'Hello', True]
+Reversed: [True, 'Hello', 5, 3]
+b) [5, 2, 10, 'dog', False]
+Testing "dog": index is 3
+Testing 2: index is 1
+Testing 5: index is 0
+Testing "cat": index is -1
+c) [2, 5, 8, 9, 10, 15, 24]
+Median 1st List: 9
+[2, 5, 8, 9, 10, 15, 24, 54]
+Median 2nd List: 9.5
+bash-3.2$ python3 Lab4.py[C[C[C[C[C[C[C[C[C[Cexit[K
+exit
+
+Script done on Tue Oct 18 09:37:01 2016

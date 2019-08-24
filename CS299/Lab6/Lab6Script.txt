@@ -1,0 +1,35 @@
+Script started on Thu Nov  3 09:45:32 2016
+[?1034hbash-3.2$ exitpython3 Lab6.py
+PART 1
+Dictionary: {'joe': 10, 'sally': 15, 'sue': 18, 'tom': 17, 'barb': 20}
+
+
+PART 2
+Set: {('barb', 20), ('tom', 17), ('sally', 15), ('sue', 18), ('joe', 10)}
+Frozen Set: frozenset({('sally', 22), ('tom', 17), ('barb', 19), ('sue', 18), ('joe', 20)})
+Intersection: {('tom', 17), ('sue', 18)}
+
+
+PART 3
+Names	Scores
+barb		20
+joe		10
+john		19
+sally		19
+sue		18
+
+
+PART 4
+Median Score: 19
+
+
+PART 5
+Testing for 'ana': 
+ana is not in the dictionary!
+-1
+Testing for 'barb: 
+20
+bash-3.2$ exit
+exit
+
+Script done on Thu Nov  3 09:45:38 2016

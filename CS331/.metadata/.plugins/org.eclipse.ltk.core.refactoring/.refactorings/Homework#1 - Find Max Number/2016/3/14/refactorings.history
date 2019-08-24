@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename local variable &apos;start&apos; in &apos;Main.findMax()&apos; to &apos;max&apos;&#x0A;- Original project: &apos;Homework#1 - Find Max Number&apos;&#x0A;- Original element: &apos;Main.findMax().start&apos;&#x0A;- Renamed element: &apos;start&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;start&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{Main.java[Main~findMax@start!155!173!159!163!I!0!false" name="max" references="true" stamp="1459382512072" version="1.0"/>
-</session>

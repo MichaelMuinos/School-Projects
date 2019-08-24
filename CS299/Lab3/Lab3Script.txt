@@ -1,0 +1,52 @@
+Script started on Thu Oct  6 09:10:22 2016
+[?1034hbash-3.2$ exitpython3 SalesReceipt-Lab3.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P SalesReceipt-Lab3.py[CMonteCarloMethod-Lab3.py[C[C3 MonteCarloMethod-Lab3.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+Value of N: 10000
+PI: 3.1384
+Time to execute (seconds): 0.024296045303344727
+
+Value of N: 10000
+PI: 3.1696
+Time to execute (seconds): 0.020663976669311523
+
+Value of N: 10000
+PI: 3.1236
+Time to execute (seconds): 0.02868795394897461
+
+Value of N: 100000
+PI: 3.13948
+Time to execute (seconds): 0.21940994262695312
+
+Value of N: 100000
+PI: 3.14328
+Time to execute (seconds): 0.21817803382873535
+
+Value of N: 100000
+PI: 3.13232
+Time to execute (seconds): 0.2280869483947754
+
+Value of N: 1000000
+PI: 3.138792
+Time to execute (seconds): 2.1349570751190186
+
+Value of N: 1000000
+PI: 3.140996
+Time to execute (seconds): 2.134564161300659
+
+Value of N: 1000000
+PI: 3.14148
+Time to execute (seconds): 2.1296420097351074
+
+bash-3.2$ python3 MonteCarloMethod-Lab3.py[C[C[C[C[C[C[C[C[C[Cexit[Kpython3 SalesReceipt-Lab3.py[C
+Purchase: 80, 125, 45.5, tax rate: 8%
+Total: 270.54 dollars
+
+Purchase: 95, tax rate: 10.5%
+Total: 104.97 dollars
+
+Purchase: 12, 5.5, 6.5, 7.5, 9.0, tax rate: 7%
+Total: 43.34 dollars
+
+bash-3.2$ exit
+exit
+
+Script done on Thu Oct  6 09:10:54 2016
